@@ -4,7 +4,7 @@ Changelog
 20.1.2 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Dropped support for Python 3.5
 
 
 20.1.1 (2020-10-02)
